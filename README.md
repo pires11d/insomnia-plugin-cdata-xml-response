@@ -30,3 +30,7 @@ This plugin removes the CDATA tags from server responses that returns a XML with
 - After copying the plugin folder, go to the `Plugins` tab again and mark the checkbox that says `ENABLE`;
 
 - Close the Preferences window, then click on `Tools > Reload Plugins` for it to activate, and voilà!
+
+## 🤝 Acknowledgments
+
+Thanks to [Godrix](https://github.com/godrix) and his plugin [insomnia-plugin-xml-json-response](https://github.com/godrix/insomnia-plugin-xml-json-response), as it was the main motivation (as well as code source inspiration) for me to make this plugin! 
