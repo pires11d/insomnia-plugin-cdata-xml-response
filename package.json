@@ -1,10 +1,30 @@
 {
   "name": "insomnia-plugin-cdata-xml-response",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "insomnia": {
     "name": "cdata-xml-response",
     "description": ""
   },
-  "main": "main.js"
+  "main": "main.js",
+  "description": "This plugin removes the CDATA tags from server responses that returns a XML within it.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pires11d/insomnia-plugin-cdata-xml-response.git"
+  },
+  "keywords": [
+    "insomnia",
+    "cdata",
+    "xml\u001b[D\u001b[C\u001b[D\u001b[C",
+    "soap"
+  ],
+  "author": "Lucas J. Pires",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pires11d/insomnia-plugin-cdata-xml-response/issues"
+  },
+  "homepage": "https://github.com/pires11d/insomnia-plugin-cdata-xml-response#readme"
 }
