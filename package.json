@@ -1,0 +1,10 @@
+{
+  "name": "insomnia-plugin-cdata-xml-response",
+  "version": "0.0.1",
+  "private": true,
+  "insomnia": {
+    "name": "cdata-xml-response",
+    "description": ""
+  },
+  "main": "main.js"
+}
