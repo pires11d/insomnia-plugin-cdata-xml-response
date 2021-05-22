@@ -33,4 +33,4 @@ This plugin removes the CDATA tags from server responses that returns a XML with
 
 ## 🤝 Acknowledgments
 
-Thanks to [Godrix](https://github.com/godrix) and his plugin [insomnia-plugin-xml-json-response](https://github.com/godrix/insomnia-plugin-xml-json-response), as it was the main motivation (as well as code source inspiration) for me to make this plugin! 
+Thanks to [Godrix](https://github.com/godrix) and his plugin [insomnia-plugin-xml-json-response](https://github.com/godrix/insomnia-plugin-xml-json-response), as it was the main motivation (as well as code source inspiration) for me to make my plugin! ❤
