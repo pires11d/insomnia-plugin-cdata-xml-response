@@ -28,7 +28,7 @@ function getContentAsXml(text) {
 }
 
 function removeCDATA(text) {
-  text = text.replace("<![CDATA[<DataResponse Version=\"1.0\">", "");
-  text = text.replace("</DataResponse>]]>", "");
+  text = text.replace("<![CDATA[", "");
+  text = text.replace("]]>", "");
   return text;
 }
