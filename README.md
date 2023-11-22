@@ -1,6 +1,6 @@
 # Insomnia Plugin CDATA-XML
 
-This plugin removes the CDATA tags from server responses that returns a XML within it.
+This plugin removes the CDATA tags from server responses (SOAP) that return a XML, and also formats the XML response.
 
 ## 🚀 Installation
 
